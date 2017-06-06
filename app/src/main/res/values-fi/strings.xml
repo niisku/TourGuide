@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="address_move_citybike">Tukholmasta löytyy yli 140 pyörän nouto- ja jättöpaikkaa.</string>
+    <string name="address_play_escaperoom">Useita paikkoja; Esim. Olof Palmes gata 23</string>
+    <string name="description_eat_drottninghof">\"Tämä ravintola sijaitsee Tukholman suosituimmalla ostoskadulla, mutta tästä huolimatta se tarjoaa laadukasta ruokaa hyvillä hinnoilla. Vinkki: Kokeile perinteisiä ruotsalaisia lihapullia! \"</string>
+    <string name="app_name">Pieni Opas Tukholmaan</string>
+    <string name="description_eat_fangyan">Käsintehtyjä, herkullisia ja edullisia dumplingseja.</string>
+    <string name="description_eat_gardenbistro">Tämä kahvila on kuin puutarha sisätiloissa, ja tarjoaa herkullista ruokaa ihanassa ja rentouttavassa ilmapiirissä. Viikonloppuisin tarjolla on myös keitto- ja vohvelibuffetti, jossa voit paistaa itse vohvelisi.</string>
+    <string name="description_eat_gunters">Tämä on Tukholman yksi kuuluisimmista hot dog-kojuista. Se tarjoaa suuren valikoiman erilaisia ja erimausteisia makkaroita ja lihatuotteita. Varaudu pitkiin jonoihin varsinkin lounasaikaan.</string>
+    <string name="description_eat_sturekatten">1700-luvulta olevassa rakennuksessa sijaitseva tunnelmallinen kahvila. Yksi Tukholman klassikoista. Kokeile paikan korvapuusteja!</string>
+    <string name="description_move_citybike">Yksi helpoimmista tavoista tutkia Tukholmaa on vuokrata kaupunkipyörä. Osta edullinen vuokrakortti ja saat pyörän käyttöösi aina 3 tunnin ajaksi kerrallaan.</string>
+    <string name="description_move_gym">Ympäri Tukholmaa löytyy valtava määrä hyvin huollettuja ulkokuntoilulaitteita. Käyttö on ilmaista ja laitteet on varusteltu käyttöohjeilla.</string>
+    <string name="description_move_hellasgarden">"Suuri luonnonpuisto, joka sijaitsee keskustasta vain 15 minuutin bussimatkan päässä. Täältä löytyy erilaisia vaellusreittejä, saunatilat, ravintola, vuokramökkejä, grillauspaikkoja, minigolf.... Lisäksi talvisin hyvät puitteet eri talviurheilulajeille. "</string>
+    <string name="description_move_nacka">Kaunis luonnonpuisto erilaisiin ulkouluaktiviteetteihin. Laajalta alueelta löytyy mm. eripituisia vaellusreittejä, kahviloita, uimapaikkoja sekä eläinpihoja.</string>
+    <string name="description_move_park">Tukholma on vihreä kaupunki, jossa ihmiset viettävät aikaa ulkona aina kuin mahdollista, niin syöden, pelaten pelejä tai vain rentoutuen. Kaupungin puistot ovat avoimia kaikille, ja niistä löytyy usein roska-astioita, vessat ja jopa kierrätysastiat kertakäyttögrilleille.</string>
+    <string name="description_play_cybertown">Suosittu laserpelipaikka Tukholman keskiössä.</string>
+    <string name="description_play_escaperoom">Tukholman parhaimmaksi arvosteltu huonepakopeli.</string>
+    <string name="description_play_karaoke">Rento karaokepaikka, jossa mukava henkilökunta. Vuokraa karaokehuone seurueellesi ja aloita lauleskelut!\n</string>
+    <string name="description_play_minigolf">Herttainen minigolf-rata sijaitsee kauniilla Kristinebergin alueella. Esteinä toimivat kivestä tehdyt klassikkokirjat muovisten esteiden sijaan.</string>
+    <string name="description_play_standup">Ikoninen pubi, jossa esitetään standuppia ruotsiksi ja englanniksi useana iltana viikossa. Sisäänpääsy kustantaa vain takkisäilytysmaksun verran.</string>
+    <string name="description_see_hotorgshallen">Klassinen ruokahalli vuodesta 1880, josta lötyy perinteisiä ruokia ja ruoka-aineita ympäri maailmaa, Suomesta Italiaan.</string>
+    <string name="description_see_naturalhistorymuseum">Vuonna 1819 perustettu luonnonhistorian museo tarjoaa ilmaisella sisäänpääsyllä vaihtelevia näyttelyitä ja esityksiä maapallomme historiasta.</string>
+    <string name="description_see_skansen">Kaunis ulkoilmamuseo, josta löytyy mm. entisajan kunnostettuja rakennuksia, eläimiä sekä idyllisiä pieniä putiikkeja ja kahviloita.</string>
+    <string name="description_see_soldiers">Kuninkaalliset sotilaat marssivat kulkueessa useana päivänä viikossa ympäri vuoden, usein mukanaan armeijan soittokunta sekä hevosia. Paras paikka kulkueen näkemiseen on Kuninkaanlinnan edusta.</string>
+    <string name="description_see_subwayart">Veistokset, mosaiikit, piirrokset ja muu 90 metroasemalla tekevät Tukholman metrolinjastosta yli 100 kilometrin mittaisen taidenäyttelyn.</string>
+    <string name="eat_title">Syö</string>
+    <string name="move_title">Liiku</string>
+    <string name="name_move_citybike">Kaupunkipyörät</string>
+    <string name="name_move_gym">Ulkoilmasalit</string>
+    <string name="name_move_park">Puistot</string>
+    <string name="play_title">Koe</string>
+    <string name="see_title">Näe</string>
+    <string name="address_see_subwayart">Useimmat metroasemat; Aloita esim. Kungsträdgårdenista</string>
+    <string name="name_see_soldiers">Vahdinvaihdon paraati</string>
+    <string name="name_see_subwayart">Metroasemien taide</string>
+    <string name="address_see_soldiers">Kuninkaanlinna, \n107 70 Stockholm</string>
+    <string name="name_see_naturalhistorymuseum">Luonnonhistorian museo</string>
+</resources>

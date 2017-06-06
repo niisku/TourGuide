@@ -1,0 +1,82 @@
+<resources>
+
+    <string name="app_name">Easy Guide Around Stockholm</string>
+
+    <string name="move_title">Move</string>
+    <string name="eat_title">Eat</string>
+    <string name="see_title">See</string>
+    <string name="play_title">Play</string>
+
+    <string name="address_move_hellasgarden" translatable="false">Ältavägen 101, \n131 33 Nacka</string>
+    <string name="address_move_nacka" translatable="false">Nyckelviksvägen 1, \n131 49 Nacka</string>
+    <string name="address_move_gym" translatable="false">Solviks Utegym, \n167 63 Stockholm</string>
+    <string name="address_move_park" translatable="false">Zinkens Väg, \n118 67 Stockholm</string>
+    <string name="address_move_citybike">Over 140 stations to pick up and rent the bicycle.</string>
+
+    <string name="address_see_hotorgshallen" translatable="false">Sergelgatan 29, \n111 57 Stockholm</string>
+    <string name="address_see_soldiers">The Royal Palace, \n107 70 Stockholm</string>
+    <string name="address_see_skansen" translatable="false">Djurgårdsslätten 49, \n115 21 Stockholm</string>
+    <string name="address_see_naturalhistorymuseum" translatable="false">Frescativägen 40, \n114 18 Stockholm</string>
+    <string name="address_see_subwayart">Several metro stations; Start e.g. at Kungsträdgården station.</string>
+
+    <string name="address_eat_gardenbistro" translatable="false">Signalfabriken, \n168 53 Bromma</string>
+    <string name="address_eat_sturekatten" translatable="false">Riddargatan 4, \n114 35 Stockholm</string>
+    <string name="address_eat_drottninghof" translatable="false">Drottninggatan 67, \n111 36 Stockholm</string>
+    <string name="address_eat_gunters" translatable="false">Karlbergsvägen 66, \n113 35 Stockholm</string>
+    <string name="address_eat_fangyan" translatable="false"> Södermannagatan 37, \n116 40 Stockholm</string>
+
+    <string name="address_play_karaoke" translatable="false">Odengatan 87, \n113 22 Stockholm</string>
+    <string name="address_play_cybertown" translatable="false">Sankt Eriksgatan 56, \n112 34 Stockholm</string>
+    <string name="address_play_minigolf" translatable="false">Hjalmar Söderbergs väg 10, \n112 52 Stockholm</string>
+    <string name="address_play_standup" translatable="false">Folkungagatan 97, \nSödermalm</string>
+    <string name="address_play_escaperoom">Several locations; E.g. Olof Palmes gata 23</string>
+
+    <string name="name_move_hellasgarden" translatable="false">Hellasgården</string>
+    <string name="name_move_nacka" translatable="false">Nacka</string>
+    <string name="name_move_gym">Outdoor Gyms</string>
+    <string name="name_move_park">Parks</string>
+    <string name="name_move_citybike">City Bikes</string>
+
+    <string name="name_see_hotorgshallen" translatable="false">Hötorgshallen</string>
+    <string name="name_see_soldiers">The Royal Guards Ceremony</string>
+    <string name="name_see_skansen" translatable="false">Skansen</string>
+    <string name="name_see_naturalhistorymuseum">Natural History Museum</string>
+    <string name="name_see_subwayart">Art at the Subway Stations</string>
+
+    <string name="name_eat_gardenbistro" translatable="false">Garden Bistro</string>
+    <string name="name_eat_sturekatten" translatable="false">Sturekatten</string>
+    <string name="name_eat_drottninghof" translatable="false">Drottninghof Grill &amp; Bar</string>
+    <string name="name_eat_gunters" translatable="false">Günters Korvar</string>
+    <string name="name_eat_fangyan" translatable="false">Fang Yuan Shi Wu</string>
+
+    <string name="name_play_karaoke" translatable="false">K Karaoke</string>
+    <string name="name_play_cybertown" translatable="false">Cybertown</string>
+    <string name="name_play_minigolf" translatable="false">Golfbaren Kristineberg</string>
+    <string name="name_play_standup" translatable="false">Big Ben Pub</string>
+    <string name="name_play_escaperoom" translatable="false">Roomescape by Fox in a Box</string>
+
+    <string name="description_move_hellasgarden">"A large nature reserve only 15 min bus ride from the city. Different hiking routes, swimming areas, saunas, restaurant, cabins to rent, barbecue areas, minigolf&#8230; And vast amount of winter activities too. "</string>
+    <string name="description_move_nacka">Beautiful natural reserve for hiking and other free outdoor activities. Vast area covers several different lengthened routes, cafeterias, swimming areas, and animal farms.</string>
+    <string name="description_move_gym">There are numerous outdoor gyms all around Stockholm area. They are equipped with instructions, are completely free to use, and are in a good condition.</string>
+    <string name="description_move_park">Stockholm is a green city, and people love to spend time outside whenever it is possible; eating, playing, or just relaxing. The parks are free for anyone, and are often provided with garbage bins, toilettes and even recycle bins just for disposable barbeques.</string>
+    <string name="description_move_citybike">There is no better way to explore the city than on a bike. By purchasing a bike card with a fare price, bicycle is ready to be rented for max 3 hours in a row.</string>
+
+    <string name="description_see_hotorgshallen">A classic food market hall since 1880s, where traditional delicacies from all around the world can be found, from Finland to Italy.</string>
+    <string name="description_see_soldiers">Royal soldiers marching, often with a band and horses, can be seen several times a week in the heart of Stockholm. The easiest place to spot them is in front of the Royal Palace (Kunglika Slottet).</string>
+    <string name="description_see_skansen">A beautiful outdoor museum, with old fashioned buildings, animals, and idyllic little shops and cafeterias.</string>
+    <string name="description_see_naturalhistorymuseum">Founded in 1819, the Natural History Museum (Naturhistoriska Riksmuseet) in Stockholm provides lots of varying exhibitions and educational movies about the history of our Earth. Free entry.</string>
+    <string name="description_see_subwayart">Sculptures, mosaic, drawings and other art in 90 out of 100 subway stations make Stockholm metro lines an over 100 km long art exhibition. </string>
+
+    <string name="description_eat_gardenbistro">This cozy cafeteria looks like a garden inside and serves vast amount of delicious food and lovely atmosphere to sit and relax. On weekends they also serve soup and waffle buffet, where you can eat as much as you like and make your own waffles.</string>
+    <string name="description_eat_sturekatten">An iconic cafeteria from all the way from 1700s is a definitely worth to visit. Their kanelbullar (cinnamon buns) are classics!</string>
+    <string name="description_eat_drottninghof">This restaurant is located at the no. 1 shopping street in Stockholm. Despite the central location, it serves good food with reasonable prices. Tip: Try their traditional Swedish meatballs!</string>
+    <string name="description_eat_gunters">One of the most famous hot dog stands in the city. Serves variety of different sausages, meat and spices. Be prepared for a long que, especially during lunch hours.</string>
+    <string name="description_eat_fangyan">Handmade, delicious dumplings with good prices.</string>
+
+    <string name="description_play_karaoke">A cozy karaoke place with nice staff. Rent your own karaoke room for 4 &#8211; 30 people and start singing!</string>
+    <string name="description_play_cybertown">A popular laser game place in a centre of Stockholm.</string>
+    <string name="description_play_minigolf">A cute minigolf place in beautiful Kristineberg area. Instead of plastic, the obstacles in the course are made of stone, presenting old classic books. </string>
+    <string name="description_play_standup">With a small fee for jackets, enjoy both Swedish and English stand-up comedy several times a week in this iconic pub.</string>
+    <string name="description_play_escaperoom">The most highly ranked escape room provider in Stockholm.</string>
+
+</resources>
